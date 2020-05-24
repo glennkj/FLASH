@@ -25,10 +25,7 @@ The main enemy of the game takes several actions to stop you. You must take diff
 **CUSTOM SETTINGS**
 The game also features custom settings, including controls, graphics, and whether the game will be played in fullscreen or not. You can also select how detailed you want the graphics for the game to be. **NOTE: Choosing a graphic setting that is too demanding could cause errors when running the game, so choose a setting appropriate for your hardware.**
 
-<<<<<<< HEAD
-You can play the game by downloading all the files in a directory and running main.py
-=======
+
 You can play the game by downloading all the files in a directory and running the FLASH application.
->>>>>>> Added Git VC
 
 More information on the game can be found on the website. https://sites.google.com/view/digitaldivision/home
