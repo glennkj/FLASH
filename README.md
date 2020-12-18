@@ -28,4 +28,4 @@ The game also features custom settings, including controls, graphics, and whethe
 
 You can play the game by downloading all the files in a directory and running the FLASH application.
 
-More information on the game can be found on the website. https://sites.google.com/view/digitaldivision/home
+More information on the game can be found on the [website](https://sites.google.com/view/digitaldivision/home). 
